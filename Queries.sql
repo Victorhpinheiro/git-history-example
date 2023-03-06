@@ -1,0 +1,1 @@
+Complex bad query
