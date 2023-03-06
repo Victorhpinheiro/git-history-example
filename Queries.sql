@@ -1,1 +1,1 @@
-Complex bad query
+optimized query
